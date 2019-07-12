@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26523" started-at="2019-07-12T22:33:15Z" finished-at="2019-07-12T22:33:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26523" started-at="2019-07-12T22:33:15Z" finished-at="2019-07-12T22:33:41Z">
+      <class name="rips.test.TestFormValidarRips">
+        <test-method status="PASS" signature="setup()[pri:0, instance:rips.test.TestFormValidarRips@42f93a98]" name="setup" is-config="true" duration-ms="7495" started-at="2019-07-12T22:33:07Z" finished-at="2019-07-12T22:33:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ingresoDatosValidarRips()[pri:2, instance:rips.test.TestFormValidarRips@42f93a98]" name="ingresoDatosValidarRips" duration-ms="23885" started-at="2019-07-12T22:33:15Z" finished-at="2019-07-12T22:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ingresoDatosValidarRips -->
+        <test-method status="PASS" signature="finalizeTest(org.testng.ITestResult)[pri:0, instance:rips.test.TestFormValidarRips@42f93a98]" name="finalizeTest" is-config="true" duration-ms="1072" started-at="2019-07-12T22:33:38Z" finished-at="2019-07-12T22:33:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ingresoDatosValidarRips status=SUCCESS method=TestFormValidarRips.ingresoDatosValidarRips()[pri:2, instance:rips.test.TestFormValidarRips@42f93a98] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalizeTest -->
+        <test-method status="PASS" signature="driverQuit()[pri:0, instance:rips.test.TestFormValidarRips@42f93a98]" name="driverQuit" is-config="true" duration-ms="1545" started-at="2019-07-12T22:33:40Z" finished-at="2019-07-12T22:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- rips.test.TestFormValidarRips -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

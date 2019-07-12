@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="RIPS"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Librerias/Automatizacion_Common_Utilities-Hibrido.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/commons-collections4-4.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/fr.opensagres.xdocreport.itext.extension-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/java-client-5.0.0-BETA8.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/org.apache.poi.xwpf.converter.core-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/org.apache.poi.xwpf.converter.pdf-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/poi-3.15.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/LibTelefonica/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Librerias/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/selenium-shutterbug-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
